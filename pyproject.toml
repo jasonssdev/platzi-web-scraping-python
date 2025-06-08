@@ -12,6 +12,8 @@ dependencies = [
     "beautifulsoup4",
     "pandas",
     "openpyxl",
+    "webdriver-manager",
+    "selenium",
 ]
 
 [build-system]
