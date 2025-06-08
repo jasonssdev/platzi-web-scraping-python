@@ -15,6 +15,7 @@ dependencies = [
     "webdriver-manager",
     "selenium",
     "undetected-chromedriver",
+    "playwright",
 ]
 
 [build-system]
