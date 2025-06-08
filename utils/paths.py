@@ -1,4 +1,3 @@
-
 # paths.py
 from pathlib import Path
 
@@ -15,6 +14,8 @@ NOTEBOOKS_DIR = PROJECT_ROOT / "notebooks"
 SRC_DIR = PROJECT_ROOT / "src"
 TEST_DIR = PROJECT_ROOT / "tests"
 UTILS_DIR = PROJECT_ROOT / "utils"
+DRIVERS_DIR = PROJECT_ROOT / "drivers"
+
 
 # Data Directories
 DATA_RAW_DIR = DATA_DIR / "raw"
