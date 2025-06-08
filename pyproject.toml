@@ -8,8 +8,11 @@ requires-python = ">=3.12"
 dependencies = [
     "ipykernel",
     "jupyter",
-    "requests", 
-    "beautifulsoup4"]
+    "requests",
+    "beautifulsoup4",
+    "pandas",
+    "openpyxl",
+]
 
 [build-system]
 requires = ["setuptools>=61.0", "wheel"]
